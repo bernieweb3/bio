@@ -6,7 +6,7 @@ const projects = [
     name: "GomGom",
     chain: "Lisk",
     description: "Lisk's loyalty program and lending protocol based on loyalty history of users",
-    tech: ["Lisk SDK", "TypeScript", "React"],
+    tech: ["Lisk SDK", "React"],
     github: "https://github.com/bernieweb3/gomgom",
     mvp: "https://gomgom.vercel.app/",
     status: "MVP",

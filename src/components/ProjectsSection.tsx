@@ -33,7 +33,7 @@ const projects = [
     name: "StatsCopilot",
     chain: "Web2",
     description: "AI-powered analytics copilot for data-driven decision making",
-    tech: ["NestJS", "Next.js", "Python", "ML"],
+    tech: ["Hono", "React", "Python", "ML"],
     github: "https://github.com/bernieweb3/sota-statworks",
     mvp: "https://stat.sotaworks.co/",
     status: "MVP",

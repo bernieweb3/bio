@@ -5,7 +5,7 @@ const projects = [
   {
     name: "GomGom",
     chain: "Lisk",
-    description: "Multi-chain aggregation protocol for seamless cross-chain interactions",
+    description: "Lisk's loyalty program and lending protocol based on loyalty history of users",
     tech: ["Lisk SDK", "TypeScript", "React"],
     github: "https://github.com/bernieweb3/gomgom",
     mvp: "https://gomgom.vercel.app/",

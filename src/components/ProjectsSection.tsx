@@ -13,7 +13,7 @@ const projects = [
   },
   {
     name: "BanhMiCast",
-    chain: "ETH Sepolia + CRE",
+    chain: "ETH Sepolia + Chainlink Runtime Environment",
     description: "Decentralized podcast platform bringing Vietnamese tech stories on-chain",
     tech: ["Solidity", "IPFS", "Next.js", "Wagmi"],
     github: "https://github.com/bernieweb3/banhmicast",

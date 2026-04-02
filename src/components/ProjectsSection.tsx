@@ -51,7 +51,7 @@ const projects = [
 
 const chainColors: Record<string, string> = {
   Lisk: "bg-emerald-500/10 text-emerald-600 border-emerald-500/20",
-  "ETH Sepolia + CRE": "bg-blue-500/10 text-blue-600 border-blue-500/20",
+  "ETH Sepolia + Chainlink Runtime Environment": "bg-blue-500/10 text-blue-600 border-blue-500/20",
   Sui: "bg-cyan-500/10 text-cyan-600 border-cyan-500/20",
   Web2: "bg-gray-500/10 text-gray-600 border-gray-500/20",
   Solana: "bg-violet-500/10 text-violet-600 border-violet-500/20",

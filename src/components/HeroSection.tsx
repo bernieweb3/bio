@@ -5,7 +5,7 @@ import bernieImg from "@/assets/bernie.jpg";
 const badges = [
   "APEC Innovation Semi-finalist",
   "Sui Hackathon Participant",
-  "CommandOSS Engineer",
+  "CommandOSS Software Engineer Intern",
 ];
 
 const HeroSection = () => {

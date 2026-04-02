@@ -15,7 +15,7 @@ const projects = [
     name: "BanhMiCast",
     chain: "ETH Sepolia + Chainlink Runtime Environment",
     description: "Decentralized prediction market platform with LMSR Patch Compute and improved encrypt-decrytp mechanism",
-    tech: ["Solidity", "IPFS", "Next.js", "Wagmi"],
+    tech: ["Solidity", "CRE", "Next.js", "Wagmi"],
     github: "https://github.com/bernieweb3/banhmicast",
     mvp: "https://banhmicast.sotaworks.co/",
     status: "MVP",

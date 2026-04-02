@@ -2,4 +2,9 @@ import { createRoot } from "react-dom/client";
 import App from "./App.tsx";
 import "./index.css";
 
-createRoot(document.getElementById("root")!).render(<App />);
+const container = document.getElementById("root")!;
+
+// Prevent "removeChild" errors caused by browser extensions
+// or third-party scripts that modify the DOM outside React's control
+const root = createRoot(container);
+root.render(<App />);

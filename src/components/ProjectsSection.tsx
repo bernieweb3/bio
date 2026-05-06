@@ -39,6 +39,15 @@ const projects = [
     status: "MVP",
   },
   {
+    name: "HackOn Agent",
+    chain: "Web3 AI",
+    description: "Decentralized AI agent network leveraging idle compute for privacy-focused, distributed AI without centralized cloud",
+    tech: ["llama.cpp", "Electron", "React", "sql.js", "libp2p", "Fastify", "Supabase"],
+    github: "https://github.com/hackonteam/hackonagent",
+    mvp: null,
+    status: "OSS",
+  },
+  {
     name: "FloodShield",
     chain: "Solana",
     description: "On-chain disaster response coordination protocol for climate resilience",

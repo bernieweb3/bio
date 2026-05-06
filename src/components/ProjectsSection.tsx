@@ -48,6 +48,15 @@ const projects = [
     status: "OSS",
   },
   {
+    name: "Commando",
+    chain: "Sui",
+    description: "Natural-language CLI agent for the Sui ecosystem. One install on Windows, Linux, or macOS — zero config, grounded intelligence",
+    tech: ["axios", "commander", "Sui"],
+    github: "https://github.com/bernieweb3/commando",
+    mvp: "https://www.npmjs.com/package/sui-commando",
+    status: "Live",
+  },
+  {
     name: "FloodShield",
     chain: "Solana",
     description: "On-chain disaster response coordination protocol for climate resilience",

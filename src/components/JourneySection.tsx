@@ -1,34 +1,83 @@
 import { motion } from "framer-motion";
-import { Award, Briefcase, Code, Trophy } from "lucide-react";
+import { Award, Briefcase, Code, Rocket, Trophy, Users, Sprout, Leaf } from "lucide-react";
 
 const milestones = [
   {
     icon: Trophy,
-    title: "APEC Innovation Season 2",
-    subtitle: "Semi-finalist with Thực Lực Số",
-    date: "March 2026",
+    title: "Top 8 Track \"Build on Algorand\" - Algorand Vietnam Hackathon 2024",
+    subtitle: "First major hackathon milestone",
+    date: "Oct - Nov 2024",
+    accent: "from-emerald-500 to-teal-500",
+  },
+  {
+    icon: Trophy,
+    title: "Top 10 Finalist - Web3 & AI Ideathon 2025",
+    subtitle: "Hosted by VBI Academy × GFI Ventures × DOST HCMC. Leader of NFT Lending project Alt30",
+    date: "March 2025",
     accent: "from-amber-500 to-orange-500",
   },
   {
+    icon: Trophy,
+    title: "Top 8 Finalist - SEA Ideathon 2025",
+    subtitle: "Hosted by SciLabs × VNST × vBTC. NFT Lending project Mosaical (rebranded from Alt30)",
+    date: "April 2025",
+    accent: "from-purple-500 to-pink-500",
+  },
+  {
+    icon: Award,
+    title: "Runner-up - TLS-Innovation 2025",
+    subtitle: "Leader of Achievo with DevPros team",
+    date: "May - Jun 2025",
+    accent: "from-yellow-500 to-amber-500",
+  },
+  {
+    icon: Sprout,
+    title: "Top 30 - Startup Zone 2025",
+    subtitle: "Leader of DeGreenSci project",
+    date: "August 2025",
+    accent: "from-green-500 to-emerald-500",
+  },
+  {
+    icon: Trophy,
+    title: "2nd Place Hackathon - Sui Bootcamp HCMC 2025",
+    subtitle: "Leader of Orlim - limit order manager on Sui",
+    date: "November 2025",
+    accent: "from-cyan-500 to-sky-500",
+  },
+  {
+    icon: Leaf,
+    title: "Top 4 - Greenbio Global Idea Bridge Lab 2025",
+    subtitle: "Technical member of Mekong Doctor project",
+    date: "January 2026",
+    accent: "from-lime-500 to-green-500",
+  },
+  {
     icon: Briefcase,
-    title: "CommandOSS Internship",
-    subtitle: "Full-time Hybrid",
-    date: "Febuary - May 2026",
+    title: "Software Engineer Intern at CommandOSS",
+    subtitle: "Backend developer for a Mysten Labs project",
+    date: "Feb - May 2026",
     accent: "from-primary to-accent",
   },
   {
+    icon: Trophy,
+    title: "Semi-finalist - APEC Innovation Season 2",
+    subtitle: "Leader of Thực Lực Số (evolved from Achievo)",
+    date: "Feb - Mar 2026",
+    accent: "from-orange-500 to-red-500",
+  },
+  {
     icon: Code,
-    title: "Joined in LotusHack Hackathon 2026",
-    subtitle: "Mar 20–22, 2026",
+    title: "LotusHack Hackathon 2026",
+    subtitle: "Leader of SOTA StatWorks project",
     date: "March 2026",
     accent: "from-pink-500 to-rose-500",
   },
   {
-    icon: Award,
-    title: "Ended internship at CommandOSS",
-    subtitle: "Next journey: Building sales software that uses robots to replace humans, and joining in a startup team",
-    date: "May 2026",
-    accent: "from-cyan-500 to-blue-500",
+    icon: Rocket,
+    title: "New chapter begins",
+    subtitle: "Sharpening fundamentals, considering the 2026 high school graduation exam as an independent candidate, building a robot-based sales software with HackOn Team, joining a startup as backend developer, and shipping personal products to level up",
+    date: "From May 8, 2026",
+    accent: "from-indigo-500 to-blue-500",
   },
 ];
 

@@ -52,7 +52,7 @@ const HeroSection = () => {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-lg sm:text-xl lg:text-2xl font-medium text-gradient mb-4"
           >
-            Web3 Builder × Vibe Code Specialist × Ecosystem Contributor
+            Builder in Public × Vibe Code Specialist
           </motion.p>
 
           <motion.p

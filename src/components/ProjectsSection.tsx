@@ -39,6 +39,15 @@ const projects = [
     status: "MVP",
   },
   {
+    name: "HackOn Agent",
+    chain: "Web3 AI",
+    description: "Decentralized AI agent network leveraging idle compute for privacy-focused, distributed AI without centralized cloud",
+    tech: ["llama.cpp", "Electron", "React", "sql.js", "libp2p", "Fastify", "Supabase"],
+    github: "https://github.com/hackonteam/hackonagent",
+    mvp: null,
+    status: "OSS",
+  },
+  {
     name: "FloodShield",
     chain: "Solana",
     description: "On-chain disaster response coordination protocol for climate resilience",
@@ -55,6 +64,7 @@ const chainColors: Record<string, string> = {
   Sui: "bg-cyan-500/10 text-cyan-600 border-cyan-500/20",
   Web2: "bg-gray-500/10 text-gray-600 border-gray-500/20",
   Solana: "bg-violet-500/10 text-violet-600 border-violet-500/20",
+  "Web3 AI": "bg-fuchsia-500/10 text-fuchsia-600 border-fuchsia-500/20",
 };
 
 const ProjectsSection = () => {

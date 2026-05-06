@@ -64,6 +64,7 @@ const chainColors: Record<string, string> = {
   Sui: "bg-cyan-500/10 text-cyan-600 border-cyan-500/20",
   Web2: "bg-gray-500/10 text-gray-600 border-gray-500/20",
   Solana: "bg-violet-500/10 text-violet-600 border-violet-500/20",
+  "Web3 AI": "bg-fuchsia-500/10 text-fuchsia-600 border-fuchsia-500/20",
 };
 
 const ProjectsSection = () => {

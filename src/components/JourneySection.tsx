@@ -25,7 +25,7 @@ const milestones = [
   },
   {
     icon: Award,
-    title: "Aiming for CommandOSS Hacker House 2026",
+    title: "Ended internship at CommandOSS",
     subtitle: "Building on-chain developer tooling",
     date: "May 2026",
     accent: "from-cyan-500 to-blue-500",

@@ -61,7 +61,7 @@ const HeroSection = () => {
             transition={{ duration: 0.6, delay: 0.3 }}
             className="text-base sm:text-lg text-muted-foreground max-w-2xl mb-8"
           >
-            Building multi-chain infrastructure for the next billion users
+            Building infrastructure and products for the next billion users
           </motion.p>
 
           {/* Badges */}

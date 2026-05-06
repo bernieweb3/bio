@@ -26,7 +26,7 @@ const milestones = [
   {
     icon: Award,
     title: "Ended internship at CommandOSS",
-    subtitle: "Building on-chain developer tooling",
+    subtitle: "Next journey: Building sales software that uses robots to replace humans, and joining in a startup team",
     date: "May 2026",
     accent: "from-cyan-500 to-blue-500",
   },
